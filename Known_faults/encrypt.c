@@ -2,8 +2,6 @@
 //  main.c
 //  orangealg
 //
-//  Created by Bishwajit Chakraborty on 23/02/19.
-//  Copyright © 2019 Bishwajit Chakraborty. All rights reserved.
 //
 
 #include <stdio.h>
